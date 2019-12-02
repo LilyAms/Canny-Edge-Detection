@@ -1,5 +1,5 @@
 # canny-edge-detection
-Implementation of a Canny Edge Detector. The algorithm is tested on Lena.
+Implementation of a Canny Edge Detector as part of an assignment of the Computer Vision course from ENPC.
 The influence of the value of the thresholds and of the standard deviation of the Gaussian Filter is discussed.
 
 *Part 1*
